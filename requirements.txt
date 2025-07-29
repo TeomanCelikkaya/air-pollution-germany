@@ -1,0 +1,23 @@
+# Data handling
+pandas
+numpy
+
+# API handling
+requests
+
+# Geospatial data
+osmnx
+geopandas
+shapely
+
+# Visualization
+plotly
+folium
+matplotlib
+seaborn
+
+# Jupyter environment
+jupyter
+
+# (Optional) For time series modeling in future
+prophet
