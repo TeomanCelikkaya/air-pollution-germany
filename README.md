@@ -30,13 +30,9 @@ This project explores air pollution patterns in major German cities using open g
 air-pollution-germany/
 ├── data/ # Raw and processed data files
 ├── notebooks/ # Jupyter Notebooks for analysis and EDA
-│ ├── 01_data_fetch.ipynb
-│ ├── 02_eda.ipynb
-│ └── 03_visualization.ipynb
 ├── src/ # Python scripts for fetching and processing data
 │ ├── fetch_aqicn.py
-│ ├── osm_utils.py
-│ └── plot_utils.py
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies
-└── main.py # Optional script to run the full pipeline
+├──.gitignore
+└──.env
